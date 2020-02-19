@@ -11101,7 +11101,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-is@npm:^16.7.0, react-is@npm:^16.8.1, react-is@npm:^16.8.4":
+"react-is@npm:^16.12.0, react-is@npm:^16.7.0, react-is@npm:^16.8.1, react-is@npm:^16.8.4":
   version: 16.12.0
   resolution: "react-is@npm:16.12.0"
   checksum: 2/ddcafd1c3f37118880c7d21720d8481842b1cda8f2724d81a1c103919c5764a697fefd65451396d47ac634ea7850df7829ef0b1094a84b1d18fbfa0c9400b7c9
@@ -12685,11 +12685,9 @@ resolve@1.1.7:
     "@testing-library/user-event": ^7.1.2
     react: ^16.12.0
     react-dom: ^16.12.0
+    react-is: ^16.12.0
     react-scripts: 3.3.1
     styled-components: ^5.0.1
-  peerDependencies:
-    "@testing-library/dom": "*"
-    react-is: "*"
   languageName: unknown
   linkType: soft
 
